@@ -1,18 +1,18 @@
 <ASSEMBLER_INFO>
  <VERSION>2.2.7</VERSION>
  <DEVICE>"ATtiny2313A"</DEVICE>
- <WORKING_DIR>D:\Projects\avr\ReactionTime\ReactionTime\Debug</WORKING_DIR>
+ <WORKING_DIR>D:\Projects\from_github\ReactionTime\ReactionTime\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
   <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
   <DIR></DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</SOURCE_FILE>
+ <SOURCE_FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn2313adef.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>D:\Projects\avr\ReactionTime\ReactionTime\Debug\ReactionTime.obj</FILE>
+  <FILE>D:\Projects\from_github\ReactionTime\ReactionTime\Debug\ReactionTime.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
   <FILE>ReactionTime.hex</FILE>
@@ -22,35 +22,35 @@
   <FILE>ReactionTime.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <START><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>232</LINE></START>
-  <INT0_INT><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>186</LINE></INT0_INT>
-  <TIM1_COMPAR><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>142</LINE></TIM1_COMPAR>
-  <TIM0_COMPAR><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>95</LINE></TIM0_COMPAR>
-  <tim0_compar_exit><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>136</LINE></tim0_compar_exit>
-  <ENABLE_INT0_FALLING_EDGE><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>276</LINE></ENABLE_INT0_FALLING_EDGE>
-  <counting_milliseconds><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>160</LINE></counting_milliseconds>
-  <pseudo_delay><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>146</LINE></pseudo_delay>
-  <CLEAR_TIMER1_COUNTER><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>301</LINE></CLEAR_TIMER1_COUNTER>
-  <end_of_pseudo_delay><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>152</LINE></end_of_pseudo_delay>
-  <SETUP_TIMER1_CTC_1_1><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>398</LINE></SETUP_TIMER1_CTC_1_1>
-  <LIGHT_ON_LED_PORTD0><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>413</LINE></LIGHT_ON_LED_PORTD0>
-  <tim1_compar_exit><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>180</LINE></tim1_compar_exit>
-  <DISABLE_INT0><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>292</LINE></DISABLE_INT0>
-  <refresh_segment_digits><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>218</LINE></refresh_segment_digits>
-  <compare_with_40><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>193</LINE></compare_with_40>
-  <compare_with_15><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>200</LINE></compare_with_15>
-  <timer_setup_for_delay><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>206</LINE></timer_setup_for_delay>
-  <CLEAR_DIGITS><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>310</LINE></CLEAR_DIGITS>
-  <LIGHT_OFF_LED_PORTD0><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>421</LINE></LIGHT_OFF_LED_PORTD0>
-  <SETUP_DIGITS><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>319</LINE></SETUP_DIGITS>
-  <CLEAR_TIME_COUNTERS><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>389</LINE></CLEAR_TIME_COUNTERS>
-  <SETUP_TIMER1_CTC_1_256><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>406</LINE></SETUP_TIMER1_CTC_1_256>
-  <INF_LOOP><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>271</LINE></INF_LOOP>
-  <digitToMask><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>430</LINE></digitToMask>
-  <calc_digits><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>330</LINE></calc_digits>
-  <lower_then_100_seconds><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>342</LINE></lower_then_100_seconds>
-  <update_digits><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>371</LINE></update_digits>
-  <lower_then_10_seconds><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>361</LINE></lower_then_10_seconds>
-  <division_start><FILE>D:\Projects\avr\ReactionTime\ReactionTime\main.asm</FILE><LINE>347</LINE></division_start>
+  <START><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>232</LINE></START>
+  <INT0_INT><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>186</LINE></INT0_INT>
+  <TIM1_COMPAR><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>142</LINE></TIM1_COMPAR>
+  <TIM0_COMPAR><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>95</LINE></TIM0_COMPAR>
+  <tim0_compar_exit><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>136</LINE></tim0_compar_exit>
+  <ENABLE_INT0_FALLING_EDGE><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>276</LINE></ENABLE_INT0_FALLING_EDGE>
+  <counting_milliseconds><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>160</LINE></counting_milliseconds>
+  <pseudo_delay><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>146</LINE></pseudo_delay>
+  <CLEAR_TIMER1_COUNTER><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>301</LINE></CLEAR_TIMER1_COUNTER>
+  <end_of_pseudo_delay><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>152</LINE></end_of_pseudo_delay>
+  <SETUP_TIMER1_CTC_1_1><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>398</LINE></SETUP_TIMER1_CTC_1_1>
+  <LIGHT_ON_LED_PORTD0><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>413</LINE></LIGHT_ON_LED_PORTD0>
+  <tim1_compar_exit><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>180</LINE></tim1_compar_exit>
+  <DISABLE_INT0><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>292</LINE></DISABLE_INT0>
+  <refresh_segment_digits><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>218</LINE></refresh_segment_digits>
+  <compare_with_40><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>193</LINE></compare_with_40>
+  <compare_with_15><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>200</LINE></compare_with_15>
+  <timer_setup_for_delay><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>206</LINE></timer_setup_for_delay>
+  <CLEAR_DIGITS><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>310</LINE></CLEAR_DIGITS>
+  <LIGHT_OFF_LED_PORTD0><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>421</LINE></LIGHT_OFF_LED_PORTD0>
+  <SETUP_DIGITS><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>319</LINE></SETUP_DIGITS>
+  <CLEAR_TIME_COUNTERS><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>389</LINE></CLEAR_TIME_COUNTERS>
+  <SETUP_TIMER1_CTC_1_256><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>406</LINE></SETUP_TIMER1_CTC_1_256>
+  <INF_LOOP><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>271</LINE></INF_LOOP>
+  <digitToMask><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>430</LINE></digitToMask>
+  <calc_digits><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>330</LINE></calc_digits>
+  <lower_then_100_seconds><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>342</LINE></lower_then_100_seconds>
+  <update_digits><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>371</LINE></update_digits>
+  <lower_then_10_seconds><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>361</LINE></lower_then_10_seconds>
+  <division_start><FILE>D:\Projects\from_github\ReactionTime\ReactionTime\main.asm</FILE><LINE>347</LINE></division_start>
  </LABELS>
 </ASSEMBLER_INFO>
